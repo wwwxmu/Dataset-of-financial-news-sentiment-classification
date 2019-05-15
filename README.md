@@ -11,6 +11,6 @@
 ![数据样例](https://cdn.weiweiblog.cn/20190515190731.png)
 
 ### 文件说明
-news_seed.xlsx: 种子数据集
-train_data.csv: 可用于训练的数据集
-test_data.csv: 可用于测试的数据集
+- news_seed.xlsx: 种子数据集
+- train_data.csv: 可用于训练的数据集
+- test_data.csv: 可用于测试的数据集
